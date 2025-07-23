@@ -56,3 +56,15 @@ console.log(typeof(numberToString));
 //1 or any number or string boolean => true
 //0 => false
 //"" if empty => false
+
+console.log("02">1);
+console.log(null>1);
+console.log(null<1);
+console.log(null>=1);
+console.log(null<=1);
+
+console.log("02"==2);
+console.log("02"===2);
+
+
+
